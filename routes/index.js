@@ -1,0 +1,3 @@
+/*
+    This file is used to export all the routes in the folder
+*/
